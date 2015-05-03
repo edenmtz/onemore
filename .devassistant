@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.3
+original_kwargs:
+  github: !!python/unicode 'edenmtz'
+  name: !!python/unicode '/home/cLoNe/onemore'
+project_type:
+- c
